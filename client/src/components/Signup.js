@@ -109,6 +109,6 @@ export const SignupForm = () => {
           )}
         </tbody>
       </table>
-    </div>
+    </div>       
   );
 };
